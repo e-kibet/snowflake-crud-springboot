@@ -37,4 +37,8 @@ GRANT ROLE ACCOUNTADMIN TO USER <<YOUR USERNAME>>;
 5. Run the project on intellj ide or any other ide.
 
 
+## Example of the data in snowflake database
+
+![Alt text](screenshots/snowflake-crud.png?raw=true "Snowflake example of data")
+
 ```### HAPPY CODING ###```
